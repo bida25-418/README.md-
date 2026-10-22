@@ -134,13 +134,13 @@ students
 Section B Data Structure
 
 students = {
-    "John": {
+    "Theo": {
         "PYTHON": 85,
         "DDD": 78,
         "IDA": 92
     },
 
-    "Mary": {
+    "Mpho": {
         "PYTHON": 90,
         "DDD": 88,
         "IDA": 95
@@ -153,11 +153,11 @@ Input:
 Enter number of students: 2
 
 Student 1
-Enter student name: John
+Enter student name: Theo
 Enter grade (0-100): 80
 
 Student 2
-Enter student name: Mary
+Enter student name: Mpho
 Enter grade (0-100): 90
 
 Output:
@@ -167,15 +167,15 @@ CLASS REPORT
 Total Grades : 170.00
 Average Grade: 85.00
 
-Student: John Subject: PYTHON Grade: 80.00 Class Average: 85.00
-Student: Mary Subject: PYTHON Grade: 90.00 Class Average: 85.00
+Student: Theo Subject: PYTHON Grade: 80.00 Class Average: 85.00
+Student: Mpho Subject: PYTHON Grade: 90.00 Class Average: 85.00
 
 Multiple Subject
 
 Input:
 
 Student 1
-Enter student name: John
+Enter student name: Theo
 
 Enter PYTHON grade (0-100): 80
 Enter DDD grade (0-100): 75
@@ -187,7 +187,7 @@ CLASS SUMMARY
 ----------------------------------------------------------------------
 Name        PYTHON  DDD     IDA     Average
 ----------------------------------------------------------------------
-John        80      75      90      81.67
+Theo        80      75      90      81.67
 
 SUBJECT STATISTICS
 ----------------------------------------
@@ -216,9 +216,9 @@ Output:
 STUDENT RECORDS
 ----------------------------------------
 
-Name: John | PYTHON: 80.0 | DDD: 75.0 | IDA: 90.0 | Average: 81.67
+Name: Theo | PYTHON: 80.0 | DDD: 75.0 | IDA: 90.0 | Average: 81.67
 
-Name: Mary | PYTHON: 92.0 | DDD: 85.0 | IDA: 88.0 | Average: 88.33
+Name: Mpho | PYTHON: 92.0 | DDD: 85.0 | IDA: 88.0 | Average: 88.33
 
 Update:
 
@@ -232,7 +232,7 @@ Output:
 
 Student updated successfully.
 
-Remove Example
+Remove 
 
 Input:
 
